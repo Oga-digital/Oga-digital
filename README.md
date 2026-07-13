@@ -25,10 +25,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 📊 Estatísticas do GitHub
+### 🏆 Troféus do GitHub
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Oga-digital&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oga-digital&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Oga-digital&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
 </p>
 
 ### 🌐 Onde me encontrar
